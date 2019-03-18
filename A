@@ -1,0 +1,14 @@
+
+    Usage:
+        parser.py <word> [--parameter]
+        parser.py <sentence> [--parameter]
+
+    Parameters for <word>:
+        -a --abbreviation   remove all periods from an abbreviation
+        -s --singular       convert most words to singular and remove ownership
+        -p --punctuation    remove the surrounding punctuation
+        -w --whitespace     remove the surrounding whitespace
+
+    Parameters for <sentence>:
+        -a --abbreviation   remove all periods from an abbreviation
+    
